@@ -1,4 +1,4 @@
-# Getting Started with API SecurityApiSpringBoot
+#  API Login with Spring Security
 
 This project is a springBoot API to login and register Users, using Spring Security.
 
